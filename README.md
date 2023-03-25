@@ -75,7 +75,7 @@ body {
 
 #### JavaScript Code
 
-```js
+```javascript
 const chessBoard = document
   .querySelector('.chess-board')
   .querySelector('tbody');
