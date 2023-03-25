@@ -4,7 +4,11 @@
 
 ### Project Preview
 
-![](./img/preview.png)
+![preview-image](./img/preview.png)
+
+[Live Preview](https://sam4web.github.io/html-chess-board/)
+
+<hr />
 
 <br />
 
